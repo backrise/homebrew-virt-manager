@@ -1,7 +1,7 @@
 class OsinfoDbTools < Formula
   desc "Tools for managing the libosinfo database files"
   homepage "https://libosinfo.org"
-  url "https://backrise.github.io/osinfo-db-tools-1.9.0.tar.xz"
+  url "https://backrise.github.io/homebrew-virt-manager/packages/osinfo-db-tools-1.9.0.tar.xz"
   sha256 "255f1c878bacec70c3020ff5a9cb0f6bd861ca0009f24608df5ef6f62d5243c0"
 
   depends_on "pkg-config" => :build
